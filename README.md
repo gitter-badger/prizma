@@ -1,5 +1,6 @@
 prizma
 ======
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/emre11arslan/prizma?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 A Feature Extraction and Selection Tool for Categorizing Text Documents
 
